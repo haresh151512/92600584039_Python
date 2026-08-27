@@ -1,0 +1,7 @@
+print("----BIO DATA----")
+print("Name    :Dipen Ghodasara")
+print("D.O.B   :22-Augest-2005")
+print("Age     :22")
+print("Gender  :male")
+print("Native   :morbi")
+print("Address :Uma-township,Morbi-2 ")

@@ -1,0 +1,5 @@
+p=float(print("Enter principle ammount:"))
+r=int(print("Enter rate of interest:"))
+n=int(print("Enter number of year:"))
+print("simple interest is:",p*r*n/100)
+print("compound interest is:",p*)

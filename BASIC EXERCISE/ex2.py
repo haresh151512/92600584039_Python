@@ -1,0 +1,8 @@
+a=int(input("enter first number:"))
+b=int(input("enter second number:"))
+print("---all five mathematical operation--")
+print("add of",a," and ",b," is: ",a+b)
+print("sub of",a," and ",b," is: ",a-b)
+print("div of",a," and ",b," is: ",a/b)
+print("mul of",a," and ",b," is: ",a*b)
+print("mod of",a," and ",b," is: ",a%b)
